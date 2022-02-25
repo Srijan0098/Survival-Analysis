@@ -5,7 +5,7 @@ This repository contains the data and our code files related to a project we hav
  The data comprised of 118 patients with bladder cancer, who have entered a study where they received 3 different kinds of treatments : 
  - placebo
  - pyridoxine
- - thiotepa.
+ - thiotepa
  
  Further down the study, some of them have observed multiple recurrences (upto 9), some have died,  and the rest have been censored.
   <br /> In this project, our main objectives have been :
