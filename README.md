@@ -110,8 +110,8 @@ From the first part i.e. Regression Coefficients , we can conclude that
   <img width="900" height="500"src="/plots/frailty_wrt_trt_both.png"> <br>
 </p>
 <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Placebo 
- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Pyridoxine 
- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Thiotepa</p>
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Pyridoxine 
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Thiotepa</p>
 
 These are the conditional and marginal survival curves (i.e. the expected survival over Z), predicted by the fitted gamma shared frailty model, for an individual with 1 tumour of size 1 cm with respect to all three different treatments. We can instantly conclude :
 
