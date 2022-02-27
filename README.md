@@ -60,8 +60,8 @@ Next we have thresholded on the number and size of tumours respectively, setting
 2. patients whose size of the largest initial tumour was less than 6 cm have a median survival time approximately 4 times greater than the other group
 
 <p align="left">
-  <img width="500" height="350"src="/plots/KM2.png">
-  <img width="500" height="350"src="/plots/KM3.png"> <br>
+  <img width="350" height="200"src="/plots/KM2.png">
+  <img width="350" height="200"src="/plots/KM3.png"> <br>
 </p>
 
 ### Cox Proportional Hazard model :
