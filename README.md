@@ -85,9 +85,9 @@ As we can clearly see, the covariate residuals do not exhibit any pattern, and a
   <img width="250" height="200"src="/plots/pyridoxine.png">
   <img width="250" height="200"src="/plots/thietepa.png">
 </p>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Placebo 
- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Pyridoxine 
- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Thiotepa</p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Placebo 
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Pyridoxine 
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Thiotepa</p>
  
  ## Second group analysis
 
