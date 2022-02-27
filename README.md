@@ -81,9 +81,9 @@ As we can clearly see, the covariate residuals do not exhibit any pattern, and a
 #### Modelling the hazard functions :
 
 <p align="left">
-  <img width="300" height="250"src="/plots/placebo.png">
-  <img width="300" height="250"src="/plots/pyridoxine.png">
-  <img width="300" height="250"src="/plots/thietepa.png">
+  <img width="250" height="200"src="/plots/placebo.png">
+  <img width="250" height="200"src="/plots/pyridoxine.png">
+  <img width="250" height="200"src="/plots/thietepa.png">
 </p>
 <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Placebo 
  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Pyridoxine 
