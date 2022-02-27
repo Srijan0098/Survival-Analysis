@@ -81,13 +81,13 @@ As we can clearly see, the covariate residuals do not exhibit any pattern, and a
 #### Modelling the hazard functions :
 
 <p align="left">
-  <img width="325" height="250"src="/plots/placebo.png">
-  <img width="325" height="250"src="/plots/pyridoxine.png">
-  <img width="325" height="250"src="/plots/thietepa.png">
+  <img width="300" height="250"src="/plots/placebo.png">
+  <img width="300" height="250"src="/plots/pyridoxine.png">
+  <img width="300" height="250"src="/plots/thietepa.png">
 </p>
 <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Placebo 
- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Pyridoxine 
- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Thiotepa</p>
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Pyridoxine 
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Thiotepa</p>
  
  ## Second group analysis
 
