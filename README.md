@@ -115,8 +115,8 @@ From the first part i.e. Regression Coefficients , we can conclude that
 
 These are the conditional and marginal survival curves (i.e. the expected survival over Z), predicted by the fitted gamma shared frailty model, for an individual with 1 tumour of size 1 cm with respect to all three different treatments. We can instantly conclude :
 
-1. Median Life Time for the patient in Placebo treatment : 20 months (approx)
-2. Median Life Time for the patient in Pyridoxine treatment : 18 months (approx)
-3. Median Life Time for the patient in Thiotepa treatment : 40 months (approx)
+1. Median survival time for the patient under Placebo treatment : 20 months (approx)
+2. Median survival time for the patient under Pyridoxine treatment : 18 months (approx)
+3. Median survival time for the patient under Thiotepa treatment : 40 months (approx)
 
 These values correspond to the exponential of coefficients, and this leads us to the conclusion that *“The treatment Thiotepa is almost 2 times more effective for Bladder cancer patients than Pyridoxine or Placebo.”* 
