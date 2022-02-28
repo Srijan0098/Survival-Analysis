@@ -95,7 +95,9 @@ Unlike the first group, the second group contains all recurrence times for indiv
 <p align="center">
   <img width="600" height="400"src="/plots/group2.png"> <br>
 </p>
+
 ### Frailty Modelling :
+
 Cox proportional Hazard models are unable to capture the dependencies between the times-to-event (here, different recurrence times of the same patient). So, the Shared Frailty model has been used to model the hazard function of different treatment groups here. It has been assumed that the random variable Z follows Gamma Distribution with finite variance and mean 1, as we have used the multiplicative frailty modeling technique. <br>
 <p align="center">
   <img width="600" height="500"src="/plots/gamma_frailty_summary.png"> <br>
